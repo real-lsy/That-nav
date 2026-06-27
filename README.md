@@ -722,7 +722,7 @@ cat ~/go2w_nav_ws/scripts/start_fast_lio_localization2.sh
 It should point to:
 
 ```bash
-/home/luo/go2w_nav_ws/maps/localization/big_localization_raw.pcd
+～/go2w_nav_ws/maps/localization/big_localization_raw.pcd
 ```
 
 Check the map path used by jie_3d_nav:
@@ -734,7 +734,7 @@ cat ~/go2w_nav_ws/src/jie_3d_nav/octo_planner/config/nav_params.yaml
 It should point to:
 
 ```bash
-/home/luo/go2w_nav_ws/maps/jie_maps/<exported_map_folder>
+～/go2w_nav_ws/maps/jie_maps/<exported_map_folder>
 ```
 
 Note:
